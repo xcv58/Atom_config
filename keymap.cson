@@ -1,0 +1,2 @@
+'.editor':
+  'ctrl-q': 'tree-view:toggle-focus'
