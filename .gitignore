@@ -1,0 +1,11 @@
+.DS_Store
+*~
+\#*
+.apm
+.node-gyp
+.npm
+compile-cache
+dev
+packages
+storage
+atom-shell

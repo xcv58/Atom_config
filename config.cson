@@ -1,0 +1,22 @@
+"*":
+  editor:
+    fontSize: 29
+    invisibles: {}
+  "exception-reporting":
+    userId: "616f528a-4e1a-c1e1-ea2a-4f622888b047"
+  welcome:
+    showOnStartup: false
+  minimap: {}
+  core:
+    themes: [
+      "atom-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  "meteor-helper":
+    settingsPath: "settings.json"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  "fuzzy-finder": {}
+".basic.html.text":
+  editor:
+    autoIndent: false
