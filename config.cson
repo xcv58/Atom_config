@@ -1,7 +1,10 @@
 "*":
   editor:
-    fontSize: 29
+    fontSize: 36
     invisibles: {}
+    fontFamily: "Inconsolata"
+    showIndentGuide: true
+    scrollPastEnd: true
   "exception-reporting":
     userId: "616f528a-4e1a-c1e1-ea2a-4f622888b047"
   welcome:
@@ -12,11 +15,19 @@
       "atom-dark-ui"
       "solarized-dark-syntax"
     ]
+    disabledPackages: [
+      "markdown-preview"
+    ]
   "meteor-helper":
     settingsPath: "settings.json"
   "tree-view":
     hideVcsIgnoredFiles: true
   "fuzzy-finder": {}
+  "markdown-preview-plus": {}
+  "travis-ci-status": {}
+  "vim-mode":
+    useClipboardAsDefaultRegister: true
+    useSmartcaseForSearch: true
 ".basic.html.text":
   editor:
     autoIndent: false
