@@ -1,6 +1,6 @@
 "*":
   editor:
-    fontSize: 36
+    fontSize: 28
     invisibles: {}
     fontFamily: "Inconsolata"
     showIndentGuide: true
@@ -28,6 +28,9 @@
   "vim-mode":
     useClipboardAsDefaultRegister: true
     useSmartcaseForSearch: true
+  "atom-beautify":
+    _analyticsUserId: "732e48a3-4a22-4bdb-8eca-45b9950719b6"
+  "atom-fuzzy-grep": {}
 ".basic.html.text":
   editor:
     autoIndent: false
