@@ -1,3 +1,5 @@
 'atom-text-editor':
-  'ctrl-q': 'tree-view:toggle-focus'
   'ctrl-shift-cmd-l': 'window:reload'
+  'alt-cmd-w': 'window:close'
+  'ctrl-q': 'tree-view:toggle-focus'
+  'alt-cmd-f': 'project-find:show'
